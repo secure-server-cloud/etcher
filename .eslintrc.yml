@@ -446,3 +446,8 @@ rules:
   node/no-extraneous-import:
     - error
 
+overrides:
+  files: ['*.jsx']
+  rules:
+    require-jsdoc: 
+    - off
