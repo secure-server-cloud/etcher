@@ -89,4 +89,4 @@ SelectImageButton.propTypes = {
   imageSize: propTypes.number,
 }
 
-module.exports = SelectImageButton
+exports.SelectImageButton = SelectImageButton
